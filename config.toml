@@ -1,4 +1,4 @@
-baseURL = "http://localhost:1313/"
+baseURL = "https://www.yuzhuohui.info/"
 languageCode = "zn-CN"
 defaultContentLanguage = "en"
 title = "小於的宅基地"                         # site title  # 网站标题
