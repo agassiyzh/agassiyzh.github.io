@@ -23,7 +23,7 @@ staticDir = "static"
         enable = true
         shortname = 'iamagassi'
   [params.analytics]
-    enable = false
+    enable = true
     # Google Analytics
     [params.analytics.google]
       id = "UA-13148173-4"
