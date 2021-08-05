@@ -21,7 +21,7 @@ staticDir = "static"
       enable = true
       [params.page.comment.disqus]
         enable = true
-        shortname = 'imagassi'
+        shortname = 'iamagassi'
   [params.analytics]
     enable = false
     # Google Analytics
