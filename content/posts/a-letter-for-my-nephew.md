@@ -2,7 +2,7 @@
 title: "写给十八岁的沈荣毅"
 date: "2019-10-22T15:00:00+08:00"
 categories: [书信]
-hidden: true
+draft: true
 tags:
     - 信
 ---
