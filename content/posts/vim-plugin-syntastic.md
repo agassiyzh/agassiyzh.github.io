@@ -1,7 +1,7 @@
 ---
 title: "vim插件推荐：Syntastic"
 date: 2012-08-30T14:50:00+08:00
-categories: vim
+categories: [vim]
 ---
 
 早上看到主席大人[@TualatriX][tx]老师推荐了[Syntastic][syntastic]这个vim插件。

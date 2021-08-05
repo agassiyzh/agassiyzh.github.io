@@ -1,7 +1,7 @@
 ---
 title: "关于swift的一些东西"
 date: 2014-06-06T09:35:00+08:00
-categories: Swift
+categories: [Swift]
 ---
 
 1. swift中的单例: [dispatch_once singleton model in swift][singleton]

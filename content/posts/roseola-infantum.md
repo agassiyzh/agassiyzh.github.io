@@ -3,7 +3,7 @@ layout: "post"
 title: "365天🌡️39.6˚C"
 date: "2019-06-21T21:13:00+08:00"
 comments: true
-categories: 安安成长记
+categories: [安安成长记]
 tags:
     - 育儿
     - 幼儿急症
@@ -59,9 +59,9 @@ _顺便，今天是父亲节。深感被叫一声爸爸不容易。吃中饭的�
 
 [默沙东诊疗手册:幼儿急疹](https://www.msdmanuals.com/zh/%E9%A6%96%E9%A1%B5/%E5%84%BF%E7%AB%A5%E7%9A%84%E5%81%A5%E5%BA%B7%E9%97%AE%E9%A2%98/%E5%A9%B4%E5%84%BF%E5%92%8C%E5%84%BF%E7%AB%A5%E7%97%85%E6%AF%92%E6%84%9F%E6%9F%93/%E5%B9%BC%E5%84%BF%E6%80%A5%E7%96%B9)
 
-## 六月十八日，周二
-
 {{< figure src="/images/roseola-infantum/IMG_0847.jpeg" width=300px class="floatleft" title="体温记录">}}
+
+## 六月十八日，周二
 
 尽量详细得记录了一天的数据，早上十点开始退烧。
 
@@ -79,7 +79,9 @@ _顺便，今天是父亲节。深感被叫一声爸爸不容易。吃中饭的�
 
 早上起床发现身体和脸部有明显的出疹现象。医生说不痒的话可以继续观察（正常幼儿急疹确实不痒的）。终于烧褪疹出！！！
 
-{{< figure src="/images/roseola-infantum/IMG_0856.jpeg" title="疹子" width=300px class="floatright" >}}
+<br/>
+
+{{< figure src="/images/roseola-infantum/IMG_0856.jpeg" width=300px class="floatright" >}}
 
 ## 六月二十一日，周五
 

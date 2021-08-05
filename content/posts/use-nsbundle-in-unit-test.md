@@ -1,7 +1,7 @@
 ---
 title: "在iOS单元测试中使用NSBundle"
 date: 2012-08-28T17:02:00+08:00
-categories: iOS
+categories: [iOS]
 ---
 最近开始整理项目的代码。找了一本《重构-改善既有代码的设计》来看。
 
@@ -11,7 +11,7 @@ categories: iOS
 
 后来在[stackoverfolow][stackoverfolow]中看到是```[NSBundle mainBundle]```这个方法出的问题。Apple官方文档中对这个方法的解释是：
 
->	This method allocates and initializes a bundle object if one doesn’t already exist. The new object corresponds to the directory where the application executable is located. Be sure to check the return value to make sure you have a valid bundle. This method may return a valid bundle object even for unbundled applications.
+>   This method allocates and initializes a bundle object if one doesn’t already exist. The new object corresponds to the directory where the application executable is located. Be sure to check the return value to make sure you have a valid bundle. This method may return a valid bundle object even for unbundled applications.
 	
 >	In general, the main bundle corresponds to an application file package or application wrapper: a directory that bears the name of the application and is marked by a “.app” extension.
 

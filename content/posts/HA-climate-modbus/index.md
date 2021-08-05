@@ -1,12 +1,15 @@
 ---
 title: "ModBus 空调组件及中央空调接入 Home Assistant 细节"
 date: "2018-10-29T19:24:00+08:00"
+lightgallery: true
 ---
+
+
 
 <div style="width: 100%;display: flex;display: -webkit-flex;">
     <!-- <video style="width:480px;margin: 0 auto;display:block;" src="/images/HA-climate-modbus/siri.mp4" controls="controls"/> -->
     <div style="width:66%;">
-        <video style="width:95%;" src="/images/HA-climate-modbus/siri.mp4" controls="controls">
+        <video style="width:95%;" src="/posts/ha-climate-modbus/siri.mp4" controls="controls">
         </video>
     </div>
     <div style="width:32%;">
@@ -14,6 +17,7 @@ date: "2018-10-29T19:24:00+08:00"
         <img src="/images/HA-climate-modbus/HA2.png"/>
     </div>
 </div>
+
 
 
 玩Home Assistant有一段日子了。一直想把家里的中央空调接入进去。无意间Google到`Yonsm`老师的blog好像看到了一线希望：[《ModBus 空调组件及中央空调接入 Home Assistant 简述》][1]。
@@ -32,11 +36,12 @@ date: "2018-10-29T19:24:00+08:00"
 3. 万用表（测电源极性）
 4. modbus 转TCP串口服务器
 
-![tools](/images/HA-climate-modbus/tools.jpeg)
+![tools](/images/HA-climate-modbus/tools.jpeg "万用表")
 
 ## 12V变压器正负极
 
-{{< figure src="/images/HA-climate-modbus/wechat1.png" class="floatright" width="100px" >}}
+{{< image src="/images/HA-climate-modbus/wechat1.png" class="floatright" width="100px" linked=true >}}
+
 
 空调智能网关的电源接口是一对正负极的接线端子，电压12V-24V。发货过来没有配电源。我把家里闲置的交换机电源剪掉DC接头，剥出两根正负极电源线插进去。问题是直流电源，我并不知道哪一根是正极哪一根是负极。线的胶皮上有一根是黑白相间的，有一根是全黑的。我想应该有一个工业标准来规定线的正负极线的颜色。Google之后众说纷纭。问了卖家技术指导（见图）：
 
@@ -55,17 +60,18 @@ date: "2018-10-29T19:24:00+08:00"
 
 ![modbus light](/images/HA-climate-modbus/modbus_light.png)
 
-![](/images/HA-climate-modbus/wechat2.png){:style="width:80px;float: right;margin-right: 7px;margin-top: 7px; margin-left: 15px;"}
+{{< figure src="/images/HA-climate-modbus/wechat2.png" class="floatright" width="80px" >}}
 
 问了店家后确认是批次问题，有些批次是红灯正常的。。。emmmm只能抱着将信将疑的态度继续调试了。
 
 
 
+{{< image src="/images/HA-climate-modbus/adapter_tb.png" class="floatleft">}}
 ## 空调智能网关调试
 
 为了确定我收到的网关是否有故障，按照技术指导的提醒可以直接把网关连到电脑的串口。由于我身边的电脑都是Mac，只能又在马老板家买了USB转RS 232 模块，特地选了带串口RS 232转485的。
 
-![](/images/HA-climate-modbus/adapter_tb.png){:style="width:60px;float: left;margin-right: 7px;margin-top: 7px; margin-left: 15px;"}
+
 
 按照说明连好线路，设置好串口和modbuspoll，在可以在5xxx的地址段看到数据表示空调网关可以正常工作。
 
@@ -106,7 +112,8 @@ modbus协议地址可以通过在modbuspoll中设置`Read/Write Definition`来�
 
 ## 信号线
 
-![](/images/HA-climate-modbus/line_tb.png){:style="width:100px;float: right;margin-right: 7px;margin-top: 7px; margin-left: 15px;"}
+
+{{< image src="/images/HA-climate-modbus/adapter_tb.png" class="floatright" width="100px" >}}
 
 一开始用DC电源上剪下来的线作为信号线，但是屡次失败后怀疑是线材的问题。问了店家技术指导说短距离应该没问题。保险起见还是在马云家买了标准的信号线材，跟空调公司安装的一样。分别买了0.5平和1平的，实际使用发现0.5平正好。
 
@@ -121,9 +128,10 @@ Yonsm老师说接空调线路是最麻烦的。不过他也在文中提到了只
 
 我的海信荣耀系列跟大金不太一样。拆下检修口保护罩，背后有一副电路图。看到`A、B`接口后我兴奋地认为这就是我要找的接口。调试无果后，第二次拆下保护罩发现旁边有`switch`的字样。原来这是这台内机的控制面板端口。按照modbus的原理，我大概猜测，这个端口因该只会有这台内机的数据信号。正确的端口因该是旁边的两个`通讯/Transmission`端子。
 
-<blockquote class="blockquote-center" cite="https://bbs.hassbian.com/forum.php?mod=redirect&goto=findpost&ptid=3581&pid=89367">一般的情况（1外机+多内机）是内外机都可以。如果是那种多外机的情况，要接在外面，但这个一般家庭没有多外机的重要空调吧。
-<br /><br />
-<strong>Yonsm</strong>
+<blockquote cite="https://bbs.hassbian.com/forum.php?mod=redirect&goto=findpost&ptid=3581&pid=89367">
+一般的情况（1外机+多内机）是内外机都可以。如果是那种多外机的情况，要接在外面，但这个一般家庭没有多外机的重要空调吧。
+<br /><br /><br />
+<strong><cite>- Yonsm</cite></strong>
 </blockquote>
 
 ## slave 地址

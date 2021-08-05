@@ -1,7 +1,7 @@
 ---
 title: "pip 更新所有包"
 date: 2012-09-10T17:07:00+08:00
-categories: python
+categories: [python]
 ---
 很蛋疼，忽然想吧python中的各种包更新一下。看了pip的各种选项，没有找到更新所有包的命令。
 

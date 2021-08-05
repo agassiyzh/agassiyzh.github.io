@@ -5,7 +5,7 @@ date: 2014-07-10T16:16:00+08:00
 
 Apple最近放出了iOS8 beta3，Mac OSX yosemite DP3, Xcode6 beta3(版本号是6A254o)更新。在用xcode的时候会出现一个奇怪的错误导致编译不能通过。
 
-```
+```text
 fatal error: invalid virtual filesystem overlay file '/[Long-path-goes-here]/all-product-headers.yaml'
 1 error generated.
 ```
