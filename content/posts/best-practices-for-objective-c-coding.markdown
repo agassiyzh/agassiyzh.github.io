@@ -2,6 +2,7 @@
 title: "Best Practices for Objective-C Coding"
 date: 2012-04-29T17:22:00+08:00
 categories: [objectiv-C]
+comments: true
 ---
 **在[v2ex][v2ex]有朋友推荐了这篇文章。做了翻译。欢迎纠错和讨论**
 
