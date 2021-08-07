@@ -1,9 +1,11 @@
 figure.floatright, image.floatright {
 	float: right;
+	max-width: 30%;
 }
 
 figure.floatleft, image.floatleft {
 	float: left;
+	max-width: 30%;
 }
 
 .content p {
@@ -15,6 +17,6 @@ figure.floatleft, image.floatleft {
 }
 
 
-.single .content blockquote {
-	display: inherit;
-}
+// .single .content blockquote {
+// 	display: inherit;
+// }
