@@ -16,6 +16,8 @@ staticDir = "static"
 [params]
   # LoveIt theme version
   version = "0.2.X"
+  [params.search]
+    enable = true
   [params.page]
     [params.page.comment]
       enable = true
