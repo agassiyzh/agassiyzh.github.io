@@ -85,4 +85,12 @@ staticDir = "static"
     url = "/categories/"
     title = ""
     weight = 3
+  [[menu.main]]
+    identifier = "kindle"
+    pre = ""
+    post = ""
+    name = "Kindle"
+    url = "https://kindle.yuzhuohui.info"
+    title = ""
+    weight = 4
 
