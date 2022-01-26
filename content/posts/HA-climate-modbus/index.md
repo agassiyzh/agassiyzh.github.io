@@ -18,8 +18,6 @@ lightgallery: true
     </div>
 </div>
 
-
-
 玩Home Assistant有一段日子了。一直想把家里的中央空调接入进去。无意间Google到`Yonsm`老师的blog好像看到了一线希望：[《ModBus 空调组件及中央空调接入 Home Assistant 简述》][1]。
 
 于是按照文章和论坛中讨论的指引购入了相关的模块。由于第一次玩modbus这个工业互联协议，中间也走了不少弯路。这里对[《ModBus 空调组件及中央空调接入 Home Assistant 简述》][1]没有提及的细节做一个补充.
@@ -27,7 +25,6 @@ lightgallery: true
 开始之前首先要在心理上做好打持久战的准备😱️
 
 <!--more-->
-
 
 ## 需要材料
 
@@ -146,17 +143,11 @@ temperature: {registers: [3,7,11], register_type: input, scale: 0.1, slave: 3}
 
 没有验证，来源：[帖子80楼](https://bbs.hassbian.com/forum.php?mod=redirect&goto=findpost&ptid=3581&pid=125911)
 
-
 ## 调试顺序
 
 如果你手上正好有串口转modbus 485的模块，可以先连上调试一下。看一下modbuspoll 中5xxx段有没有数据。
 
 否则可以先连接好串口服务器和空调智能网关，配置好串口服务器后。通过wifi在modbus中取到5xxx段的数据（一般来说两个硬件不会有问题）。然后把空调连上空调网关U3端口，通过wifi取到对应的协议地址。
-
-
-
-
-
 
 [1]: https://yonsm.github.io/modbus/
 [modbuspoll]: https://www.modbustools.com/modbus_poll.html
