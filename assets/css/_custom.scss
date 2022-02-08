@@ -8,9 +8,15 @@ figure.floatleft, image.floatleft {
 	max-width: 30%;
 }
 
+.content li p {
+	text-indent: 0em;
+}
+
 .content p {
 	text-indent: 2em;
 }
+
+
 
 .single .content code {
 	display: inline;
