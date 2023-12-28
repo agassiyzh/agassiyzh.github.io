@@ -1,0 +1,163 @@
+{
+  "main": {
+    "id": "f46108ed13229a43",
+    "type": "split",
+    "children": [
+      {
+        "id": "70564fadea120da0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "78b3e35e52a99f42",
+            "type": "leaf",
+            "state": {
+              "type": "diff-view",
+              "state": {
+                "file": ".obsidian/appearance.json",
+                "staged": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "ef5d788b616ce7c5",
+    "type": "split",
+    "children": [
+      {
+        "id": "b9eb4a7bf1c781ce",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "381ad834b2b0fcbb",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "50a05e218b36a1fe",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "45de236df53a5cf7",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "right": {
+    "id": "15fc0ef9af60f22e",
+    "type": "split",
+    "children": [
+      {
+        "id": "e03bd62534c4379a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9f9cbd420f45267d",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "8b571b40768743a7",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "60316e3a36e0bba3",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "bbb3ff9bfaa7c2ec",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          },
+          {
+            "id": "8c2c7bb9b7b623f0",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "templater-obsidian:Templater": false
+    }
+  },
+  "active": "78b3e35e52a99f42",
+  "lastOpenFiles": [
+    "content/posts/2023-review/index.md",
+    "template/Post.md",
+    "template",
+    "themes/zozo/exampleSite/content/posts/english-preview.md",
+    "public/images/HA-climate-modbus/modbus_server_config_2.png",
+    "public/images/HA-climate-modbus/HA1.png"
+  ]
+}
