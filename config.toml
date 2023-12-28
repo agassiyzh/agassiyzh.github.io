@@ -2,7 +2,7 @@ baseURL = "https://www.yuzhuohui.info/"
 languageCode = "zn-CN"
 defaultContentLanguage = "zh"
 title = "小於的宅基地"                         # site title  # 网站标题
-theme = ["hugo-video", "LoveIt"]
+theme = ["hugo-video", "DoIt"]
 hasCJKLanguage = true                  # has chinese/japanese/korean ?  # 自动检测是否包含 中文\日文\韩文
 
 staticDir = "static"
