@@ -1,10 +1,10 @@
 {
-  "isTypewriterScrollEnabled": true,
+  "isTypewriterScrollEnabled": false,
   "isOnlyActivateAfterFirstInteractionEnabled": true,
   "isOnlyMaintainTypewriterOffsetWhenReachedEnabled": false,
   "isTypewriterOnlyUseCommandsEnabled": false,
   "typewriterOffset": 0.5,
-  "isKeepLinesAboveAndBelowEnabled": false,
+  "isKeepLinesAboveAndBelowEnabled": true,
   "linesAboveAndBelow": 5,
   "isMaxCharsPerLineEnabled": false,
   "maxCharsPerLine": 64,
@@ -20,5 +20,5 @@
   "currentLineHighlightColor": "#333",
   "doesFullscreenWritingFocusShowHeader": false,
   "doesFullscreenWritingFocusShowVignette": true,
-  "fullscreenWritingFocusVignetteStyle": "box"
+  "fullscreenWritingFocusVignetteStyle": "column"
 }

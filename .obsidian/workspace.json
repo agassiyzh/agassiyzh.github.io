@@ -4,17 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "70564fadea120da0",
+        "id": "c2da6b179ee479a9",
         "type": "tabs",
         "children": [
           {
-            "id": "78b3e35e52a99f42",
+            "id": "5c2ef49ff5c24362",
             "type": "leaf",
             "state": {
-              "type": "diff-view",
+              "type": "markdown",
               "state": {
-                "file": ".obsidian/appearance.json",
-                "staged": false
+                "file": "content/posts/2023-review/index.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -47,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:总结",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -64,12 +65,12 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "15fc0ef9af60f22e",
@@ -85,6 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "content/posts/2023-review/index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,6 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "content/posts/2023-review/index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -122,7 +125,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "content/posts/2023-review/index.md"
+              }
             }
           },
           {
@@ -151,9 +156,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "78b3e35e52a99f42",
+  "active": "50a05e218b36a1fe",
   "lastOpenFiles": [
     "content/posts/2023-review/index.md",
+    "README.md",
     "template/Post.md",
     "template",
     "themes/zozo/exampleSite/content/posts/english-preview.md",
