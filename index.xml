@@ -1,4 +1,14 @@
-<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>小於的宅基地</title><link>https://www.yuzhuohui.info/</link><description>但愿每次回忆都不觉愧疚！</description><generator>Hugo -- gohugo.io</generator><language>zn-CN</language><managingEditor>agassi21@gmail.com (小於)</managingEditor><webMaster>agassi21@gmail.com (小於)</webMaster><lastBuildDate>Thu, 13 Jan 2022 16:51:56 +0800</lastBuildDate><atom:link href="https://www.yuzhuohui.info/index.xml" rel="self" type="application/rss+xml"/><item><title>2021 总结</title><link>https://www.yuzhuohui.info/posts/2021-review/</link><pubDate>Thu, 13 Jan 2022 16:51:56 +0800</pubDate><author><name>小於</name></author><guid>https://www.yuzhuohui.info/posts/2021-review/</guid><description><![CDATA[<div class="featured-image">
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>小於的宅基地</title><link>https://www.yuzhuohui.info/</link><description>但愿每次回忆都不觉愧疚！</description><generator>Hugo -- gohugo.io</generator><language>zn-CN</language><managingEditor>agassi21@gmail.com (小於)</managingEditor><webMaster>agassi21@gmail.com (小於)</webMaster><lastBuildDate>Thu, 28 Dec 2023 14:33:57 +0800</lastBuildDate><atom:link href="https://www.yuzhuohui.info/index.xml" rel="self" type="application/rss+xml"/><item><title>2023，不要再见</title><link>https://www.yuzhuohui.info/posts/2023-review/</link><pubDate>Thu, 28 Dec 2023 14:33:57 +0800</pubDate><author><name>小於</name></author><guid>https://www.yuzhuohui.info/posts/2023-review/</guid><description><![CDATA[<div class="featured-image">
+                <img src="/posts/2023-review/DSC00084.jpeg" referrerpolicy="no-referrer">
+            </div><p>2023跌跌撞撞过去了。今年年初疫情彻底解封了，表面上终于回归到了疫情前的正常生活。但是一切终归是回不去了，</p>
+<p><em><a href="https://github.com/agassiyzh/agassiyzh.github.io/blob/main/content/posts/2022-review/index.md" target="_blank" rel="noopener noreferrer">去年年终总结</a>，起了个头，实在写不下去了。去年实在太难，开头调子又起的太高，烂尾了。</em></p>
+<p>今年年初，疫情解封，全家经历了一次新冠感染，也算事平平安安过去了。以为一切可以欣欣向荣，结果还是在焦虑和迷茫中过去了。</p>
+<p>简恩出国去澳洲前在微信上跟我说：“老板我先替你去打探一下告诉你。生活好你也过来吧。”</p>
+<p>我说：</p>
+<blockquote>
+<p>我在哪里都可以生活的很好。</p>
+</blockquote>
+<p>确实我是热爱生活的，我对世界保持好奇，说干就干，要干就尽力干好，这是应该我最大的优点。也是10多年前我初入职场在泉心身上学到的。</p>]]></description></item><item><title>2021 总结</title><link>https://www.yuzhuohui.info/posts/2021-review/</link><pubDate>Thu, 13 Jan 2022 16:51:56 +0800</pubDate><author><name>小於</name></author><guid>https://www.yuzhuohui.info/posts/2021-review/</guid><description><![CDATA[<div class="featured-image">
                 <img src="/posts/2021-review/P1004554.JPG" referrerpolicy="no-referrer">
             </div><p>这几年每年到元旦和春节前后都会有点焦虑。总觉得需要记录点什么，但是每次都不知道自己在抗拒什么拖了好几年了。最近看了@Limboy的<a href="https://limboy.me/posts/2021-review/" target="_blank" rel="noopener noreferrer">2021 Review</a>。还是觉得不管怎么样今年都要抛弃一切杂念静下来回顾一下。</p>]]></description></item><item><title>365天🌡️39.6˚C</title><link>https://www.yuzhuohui.info/posts/roseola-infantum/</link><pubDate>Fri, 21 Jun 2019 21:13:00 +0800</pubDate><author><name>小於</name></author><guid>https://www.yuzhuohui.info/posts/roseola-infantum/</guid><description><![CDATA[<p><em>二零一九年六月十五号，於安安出生365天，一周岁生日。本来高高兴兴在瓜沥老家给她过生日。结果中午开始发烧，立马开始手忙脚乱。后来发现是<code>幼儿急疹</code>，中间也经历了一些曲折。这里记录一下，希望对新手爸妈有帮助。</em></p>
 <blockquote>
@@ -45,5 +55,4 @@
             srcset="/images/xcode-beta3-bug.png, /images/xcode-beta3-bug.png 1.5x, /images/xcode-beta3-bug.png 2x"
             sizes="auto"
             alt="xcode6 beta3 bug">
-    </a></figure></p>]]></description></item><item><title>WWDC 2014 HD Videos</title><link>https://www.yuzhuohui.info/posts/wwdc-2014-hd-videos/</link><pubDate>Mon, 09 Jun 2014 11:46:00 +0800</pubDate><author><name>小於</name></author><guid>https://www.yuzhuohui.info/posts/wwdc-2014-hd-videos/</guid><description><![CDATA[<p>今年WWDC的信息量特别大，有必要好好看一下今年的<a href="https://developer.apple.com/videos/wwdc/2014/" target="_blank" rel="noopener noreferrer">WWDC 2014 Session Videos</a>。无奈网络问题看HD的太卡，看SD的有很模糊根本看不清XCode中的演示代码。</p>
-<p>于是抓了那张网页，取出了全部HD videos的URL。丢在家里的NAS里面用aria2下载。这样就爽多了。</p>]]></description></item></channel></rss>
+    </a></figure></p>]]></description></item></channel></rss>
