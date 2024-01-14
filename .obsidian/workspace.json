@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "c2da6b179ee479a9",
+        "id": "7324acef033e9c87",
         "type": "tabs",
         "children": [
           {
-            "id": "5c2ef49ff5c24362",
+            "id": "e5edbc77de4e712c",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:总结",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,8 +65,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -156,10 +155,24 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "50a05e218b36a1fe",
+  "active": "381ad834b2b0fcbb",
   "lastOpenFiles": [
+    "content/posts/2023-review/DSC02304.jpg.sb-0a6cfd1f-C7NKQj",
+    "content/posts/2023-review/diy.001.jpeg",
+    "content/posts/2023-review/yard.001.jpeg",
+    "content/posts/2023-review/IMG_3362.jpeg",
+    "layouts/shortcodes/bilibili.html",
+    "layouts/shortcodes/bilibiliMy.html",
+    "layouts/shortcodes",
+    "layouts",
+    "content/posts/2023-review/DSC02304.jpg",
+    "content/posts/2023-review/DSC00084.jpeg",
     "content/posts/2023-review/index.md",
-    "README.md",
+    "content/posts/2023-review/IMG_2322.jpeg",
+    "content/posts/2023-review/xinjiang.jpeg",
+    "content/posts/HA-climate-modbus/index.md",
+    "content/posts/2021-review/index.md",
+    "resources/_gen/images",
     "template/Post.md",
     "template",
     "themes/zozo/exampleSite/content/posts/english-preview.md",
