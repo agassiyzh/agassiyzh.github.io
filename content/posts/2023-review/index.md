@@ -23,7 +23,7 @@ license:
 ---
 2023跌跌撞撞过去了。今年年初疫情彻底解封了，表面上终于回归到了疫情前的正常生活。但是一切终归是回不去了，
 
-*[去年年终总结](https://github.com/agassiyzh/agassiyzh.github.io/blob/main/content/posts/2022-review/index.md)，起了个头，实在写不下去了。去年实在太难，开头调子又起的太高，烂尾了。*
+*[2022年年终总结](https://github.com/agassiyzh/agassiyzh.github.io/blob/main/content/posts/2022-review/index.md)，起了个头，实在写不下去了。去年实在太难，开头调子又起的太高，烂尾了。*
 
 今年年初，疫情解封，全家经历了一次新冠感染，也算事平平安安过去了。以为一切可以欣欣向荣，结果还是在焦虑和迷茫中过去了。
 
