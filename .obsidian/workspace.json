@@ -18,8 +18,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "d86c9ae6d49b162d",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.6.5"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -155,7 +166,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "381ad834b2b0fcbb",
+  "active": "d86c9ae6d49b162d",
   "lastOpenFiles": [
     "content/posts/2023-review/DSC02304.jpg.sb-0a6cfd1f-C7NKQj",
     "content/posts/2023-review/diy.001.jpeg",
