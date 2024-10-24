@@ -1,1 +1,12 @@
-<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>Swift - category - 小於的宅基地</title><link>https://www.yuzhuohui.info/categories/swift/</link><description>Swift - category - 小於的宅基地</description><generator>Hugo -- gohugo.io</generator><language>zn-CN</language><managingEditor>agassi21@gmail.com (小於)</managingEditor><webMaster>agassi21@gmail.com (小於)</webMaster><lastBuildDate>Fri, 06 Jun 2014 09:35:00 +0800</lastBuildDate><atom:link href="https://www.yuzhuohui.info/categories/swift/" rel="self" type="application/rss+xml"/><item><title>关于swift的一些东西</title><link>https://www.yuzhuohui.info/posts/something-about-swift/</link><pubDate>Fri, 06 Jun 2014 09:35:00 +0800</pubDate><author><name>小於</name></author><guid>https://www.yuzhuohui.info/posts/something-about-swift/</guid><description>swift中的单例: dispatch_once singleton model in swift Cocoapods with swift: Swift项目中集成Cocoapods stackoverflow swift-language tag: 看看别人的问题和解答，初期很有帮助 中文入门BLog: 来自苹果</description></item></channel></rss>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>Swift - category - 小於的宅基地</title><link>https://www.yuzhuohui.info/categories/swift/</link><description>Swift - category - 小於的宅基地</description><generator>Hugo -- gohugo.io</generator><language>zn-CN</language><managingEditor>agassi21@gmail.com (小於)</managingEditor><webMaster>agassi21@gmail.com (小於)</webMaster><lastBuildDate>Fri, 06 Jun 2014 09:35:00 +0800</lastBuildDate><atom:link href="https://www.yuzhuohui.info/categories/swift/" rel="self" type="application/rss+xml"/><item><title>关于swift的一些东西</title><link>https://www.yuzhuohui.info/posts/something-about-swift/</link><pubDate>Fri, 06 Jun 2014 09:35:00 +0800</pubDate><author><name>小於</name></author><guid>https://www.yuzhuohui.info/posts/something-about-swift/</guid><description><![CDATA[<ol>
+<li>
+<p>swift中的单例: <a href="https://stackoverflow.com/questions/24024549/dispatch-once-singleton-model-in-swift#" target="_blank" rel="noopener noreferrer">dispatch_once singleton model in swift</a></p>
+</li>
+<li>
+<p><a href="https://medium.com/swift-programming/swift-cocoapods-da09d8ba6dd2" target="_blank" rel="noopener noreferrer">Cocoapods with swift</a>: Swift项目中集成Cocoapods</p>
+</li>
+<li>
+<p><a href="https://stackoverflow.com/questions/tagged/swift-language" target="_blank" rel="noopener noreferrer">stackoverflow swift-language tag</a>: 看看别人的问题和解答，初期很有帮助</p>
+</li>
+<li>
+<p>中文入门BLog: <a href="https://zh.lucida.me/blog/an-introduction-to-swift/" target="_blank" rel="noopener noreferrer">来自苹果的编程语言——Swift简介</a></p>]]></description></item></channel></rss>
